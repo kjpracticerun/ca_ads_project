@@ -10,5 +10,8 @@
 # Compiled class
 *.class
 
+# Jupiter notebook checkpoint files
+*.ipynb_checkpoints
+
 # Directories
 target/**
